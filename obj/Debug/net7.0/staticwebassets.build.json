@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SDf8/mFT2F/jr84zrMVwuRwJF8mgguRXN2o0T8ZEBmY=",
+  "Source": "webService",
+  "BasePath": "_content/webService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
